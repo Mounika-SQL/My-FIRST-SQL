@@ -1,2 +1,2 @@
 # My-FIRST-SQL
-SQL practice queries and exercises
+SQL practice queries for interview
